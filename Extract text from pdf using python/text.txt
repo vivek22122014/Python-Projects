@@ -1,0 +1,860 @@
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
+ 
+ 
+D
+isplay the state of the working directory and the staging area
+.
+ 
+$ git status
+ 
+
+ 
+Git show
+ 
+S
+hows 
+objects:
+ 
+$ git show 
+<options> <objects>
+ 
+5.
+ 
+Commit History
+ 
+
+ 
+Git log
+ 
+D
+isplay the most recent commits and the status of the head
+:
+ 
+$ git log
+ 
+D
+isplay the output as one commit per line
+:
+ 
+$ git log 
+
+oneline
+ 
+D
+isplays the files that have been modified
+:
+ 
+$ git log 
+
+stat
+ 
+Display the modified 
+files with location:
+ 
+$ git log 
+-
+p
+ 
+
+ 
+Git blame
+ 
+Display
+ 
+the modification on 
+each line of a file
+:
+ 
+$ git blame <file name>
+ 
+6.
+ 
+Ignoring files
+ 
+
+ 
+.gitignore
+ 
+Specify intentionally untracked files that Git should ignore
+.
+ 
+Create .gitignore:
+ 
+$ touch .gitignore
+ 
+List the 
+ignored files:
+ 
